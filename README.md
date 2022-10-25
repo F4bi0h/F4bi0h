@@ -1,4 +1,4 @@
-### IAE! Eu sou o Fábio Henrique
+### Iae! Eu sou o Fábio Henrique
 
 - 🔭 Atualmente estou me especializando em Front-End
 - 🌱 Estudando Desenvolvimento Web
