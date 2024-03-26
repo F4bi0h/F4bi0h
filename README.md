@@ -1,6 +1,6 @@
 ### Iae! Eu sou o Fábio Henrique
 
-- 🔭 Atualmente estou me especializando em Front-End
+- 🔭 Atualmente estou me especializando em Desenvolvimento Full-Stack
 - 🌱 Estudando Desenvolvimento Web
 - 😄 Pronouns: ele/dele
 
